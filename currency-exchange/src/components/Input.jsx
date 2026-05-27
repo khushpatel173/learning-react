@@ -16,7 +16,7 @@ function InputBox({
                     type="number"
                     placeholder="Amount"
                     value={amount}
-                    onChange={(e)=>{onAmountChange && onAmountChange(e.target.value)}}
+                    onChange={(e)=>{onAmountChange && onAmountChange(e.target.value)}} // this is to check basically if onAmount change exist then do this
                     disabled = {amountDisable}
                 />
             </div>

@@ -1,0 +1,3 @@
+In react router we have two tags Link and NavLink which are same as anchor tag but they dont refresh teh page while anchor tag does that and navlink have feature that it can check weather you are on the same page or not and accordingly we can make changes in that
+
+this loader wala method makkes it more optimized cause it calls before only when you hover while clicking it so it gets the data fast and also it stores in cache and all
